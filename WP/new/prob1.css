@@ -1,0 +1,40 @@
+body {
+    background-color: lavender;
+    color: indigo;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "sans-serif";
+  }
+  
+  .header,
+  .footer {
+    background-color: black;
+    color: aqua;
+    display: flex;
+  }
+  
+  .l {
+    width: 70%;
+  }
+  
+  .r {
+    width: auto;
+  }
+  
+  .ff,
+  .mf,
+  .lf {
+    width: 100%;
+  }
+  
+  .main {
+    width: 80%;
+    margin: 0% 9% 0% 9%;
+    height: auto;
+    background-color: lemonchiffon;
+    display: flex;
+
+  }
+  
+  .lm {
+    border: 2px solid blue;
+    width: 40%;
+  }
